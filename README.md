@@ -19,6 +19,6 @@ Nel progetto sono coinvolti i seguenti gruppi di lavoro/classi:
 - complementare di branding e comunicazione
 
 I partner di progetto sono:
-Liceo Scientifico G.Marconi di Pesaro
-Nautilus Polisportiva Nautica asd
-BIESSE spa
+- Liceo Scientifico G.Marconi di Pesaro
+- Nautilus Polisportiva Nautica asd
+- BIESSE spa
